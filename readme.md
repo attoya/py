@@ -1,5 +1,5 @@
 
-# Attoya
+# Attoya Python Framework
 
 
 ## Installation
