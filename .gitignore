@@ -1,0 +1,29 @@
+
+
+# Cache
+/__pycache__/
+**/__pycache__/
+*.pyc
+.sass-cache
+
+
+# Local Files
+*settings_server.py
+*settings_env.py
+*settings_brand.py
+
+# VirtualEnv Python
+/venv
+
+# Temp Files
+/tmp/*
+
+# Log Files
+*.log
+
+# Development
+/.vscode
+/console.*
+.noseids
+~*
+*~
